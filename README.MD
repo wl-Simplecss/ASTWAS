@@ -2,8 +2,7 @@
 ### ASTWAS: Modeling alternative polyadenylation and SNP Effects in Kernel-Driven TWAS reveals novel genetic associations for complex traits
 ### Preamble
 ![ASTWAS_model_all3.png](./EXAMPLE/ASTWAS_model_all3.png)
-The ASTWAS (Association Study using Transcriptome-Wide Association Study) program is a Python-based implementation that integrates transcriptome-wide association studies with kernel-based statistical testing. 
-We propose ASTWAS, Modeling alternative polyadenylation and SNP Effects in Kernel-Driven TWAS reveals novel genetic associations for complex traits. By utilizing a kernel function to capture non-linear genetic effects, ASTWAS significantly improves detection power. Extensive simulations demonstrate that our model outperforms the existing 3`aTWAS method under most conditions. In real-data applications, our model successfully identified numerous known risk genes and also uncovered novel genetic associations.
+The ASTWAS (Modeling alternative polyadenylation and SNP Effects in Kernel-Driven TWAS reveals novel genetic associations for complex traits) program is a Python-based implementation that integrates transcriptome-wide association studies with kernel-based statistical testing. By utilizing a kernel function to capture non-linear genetic effects, ASTWAS significantly improves statistical power. Extensive simulations demonstrate that our model outperforms the existing 3`aTWAS method under most conditions. In real-data applications, our model successfully identified numerous known risk genes and also uncovered novel genetic associations.
 
 
 Key features:
