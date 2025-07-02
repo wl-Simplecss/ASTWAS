@@ -31,7 +31,7 @@ Other versions are not tested, although they may work.
 **Installation steps:**
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repo/ASTWAS.git
+   git clone https://github.com/wl-Simplecss/ASTWAS.git
    cd ASTWAS
    ```
 
