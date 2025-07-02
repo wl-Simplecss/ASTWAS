@@ -155,15 +155,13 @@ ASTWAS generates the following output files in the specified output directory:
 If you use ASTWAS in your research, please cite:
 
 **For the SKAT methodology:**
-- Wu MC, Lee S, Cai T, Li Y, Boehnke M, Lin X. "Rare-variant association testing for sequencing data with the sequence kernel association test." Am J Hum Genet. 2011;89(1):82-93.
+- Wu M C, Lee S, Cai T, et al. Rare-variant association testing for sequencing data with the sequence kernel association test[J]. The American Journal of Human Genetics, 2011, 89(1): 82-93.
 
 **For GTEx elastic net weights:**
 - "The GTEx Consortium atlas of genetic regulatory effects across human tissues", Aguet et al, 2019
 - "A gene-based association method for mapping traits using reference transcriptome data", Gamazon et al, 2015, Nature Genetics
 - "Exploring the phenotypic consequences of tissue specific gene expression variation inferred from GWAS summary statistics", Barbeira et al, 2018, Nature Communications
 
-**For TWAS methodology:**
-- Gusev A, Ko A, Shi H, et al. "Integrative approaches for large-scale transcriptome-wide association studies." Nat Genet. 2016;48(3):245-252.
 
 ### Contacts
 
